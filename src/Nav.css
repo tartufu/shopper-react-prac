@@ -1,0 +1,15 @@
+.Mini-cart i {
+  padding-right: 16px;
+}
+
+.App-nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.Mini-cart:hover {
+  cursor: pointer;
+  color: #FFAA3F;
+  font-weight: bold;
+}
